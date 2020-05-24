@@ -1,0 +1,2 @@
+# gosample
+GoLang sample!
